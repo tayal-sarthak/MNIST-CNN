@@ -5,7 +5,7 @@
 # Research Project
 
 ## Project Overview
-This repository contains the implementation and resources for the research project. It is intended to provide a reproducible environment for running the experiments, analyzing results, and extending the work further.  
+This repository contains the implementation and resources for a project. It is intended to provide a reproducible environment for running the experiments, analyzing results, and extending the work further.  
 
 The project has been structured for clarity and ease of use, ensuring that others (e.g., collaborators, reviewers, or professors) can follow the workflow without difficulty.
 
